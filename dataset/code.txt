@@ -1,0 +1,283 @@
+
+科学研究費分類コード　ー　ReaD　コード表F
+
+研究分野コード	研究分野名（和文）	研究分野名（英文）
+1001	情報学基礎	Fundamental Informatics
+1002	ソフトウエア	Software
+1003	計算機システム?ネットワーク	Computer System Network
+1004	メディア情報学?データベース	Media Informatics/Data Base
+1005	知能情報学	Intelligent Informatics
+1006	知覚情報処理?知能ロボティクス	Perception Information Processing/Intelligent Robotics
+1007	感性情報学?ソフトコンピューティング	Sensitivity Informatics/Soft Computing
+1008	情報図書館学?人文社会情報学	Information Library Science/Humanistic Social Informatics
+1009	認知科学	Cognitive Science
+1010	統計科学	Statistical Science
+1011	生体生命情報学	Biological/Living Body Informatics
+1101	神経科学一般	General Neuroscience
+1102	神経解剖学?神経病理学	Nerve Anatomy and Neuropathology
+1103	神経化学?神経薬理学	Nerve Chemistry/Nerve Pharmacology
+1104	神経?筋肉生理学	Nerve/Muscular Physiology
+1201	実験動物学	Laboratory Animal Studies
+1301	医用生体工学?生体材料学	Biomedical Engineering/Biological Material Studies
+1302	医用システム	Medical Systems
+1303	リハビリテーション科学?福祉工学	Rehabilitation Science/Welfare Engineering
+1401	身体教育学	Physical Education
+1402	スポーツ科学	Sports Science
+1403	応用健康科学	Applied Health Sciences
+1501	生活科学一般	General Life Science
+1502	食生活学	Eating Habits Studies
+1601	科学教育	Science Education
+1602	教育工学	Educational Technology
+1701	科学社会学?科学技術史	Sociology/History of Science and Technology
+1801	文化財科学	Cultural Asset Science
+1901	地理学	Geography
+2001	環境動態解析	Environmental Dynamic Analysis
+2002	環境影響評価?環境政策	Environmental Influence Valuation/Environment Policy
+2003	放射線?化学物質影響科学	Radiation/Chemical Substance Influence Science
+2004	環境技術?環境材料	Environmental Technology/Environmental Material
+2101	ナノ構造科学	Nano Structural Science
+2102	ナノ材料?ナノバイオサイエンス	Nano Materials/Nano Bioscience
+2103	マイクロ?ナノデバイス	Micro/Nanodevice
+2201	社会システム工学?安全システム	Social System Engineering/Safety System
+2202	自然災害科学	Natural Disaster Science
+2301	基礎ゲノム科学	Basic Genome Science
+2302	応用ゲノム科学	Applied Genome Science
+2401	生物分子科学	Living Organism Molecular Science
+2501	資源保全学	Resource Maintenance Studies
+2601	地域研究	Area Studies
+2701	ジェンダー	Gender
+2801	哲学?倫理学	Philosophy/Ethics
+2802	中国哲学	Chinese Philosophy
+2803	印度哲学?仏教学	Indian Philosophy/Buddhism Studies
+2804	宗教学	Religion Studies
+2805	思想史	History of Thought
+2806	美学?美術史	Aesthetics/History of Art
+2901	日本文学	Japanese Literature
+2902	ヨーロッパ語系文学	European Language Literature
+2903	各国文学?文学論	Literature of Various Countries/Theories of Literature Criticism
+3001	言語学	Linguistics
+3002	日本語学	Japanese Studies
+3003	英語学	English Studies
+3004	日本語教育	Japanese Education
+3005	外国語教育	Foreign Language Education
+3101	史学一般	General History
+3102	日本史	History of Japan
+3103	東洋史	History of the Orient
+3104	西洋史	Western History
+3105	考古学	Archeology
+3201	人文地理学	Human Geography
+3301	文化人類学?民俗学	Cultural Anthropology/Folklore Studies
+3401	基礎法学	Basic Science of Law
+3402	公法学	Public Law
+3403	国際法学	International Law
+3404	社会法学	Social Law
+3405	刑事法学	Criminal Law
+3406	民事法学	Civil Law
+3407	新領域法学	New Types of Jurisprudence
+3501	政治学	Politics
+3502	国際関係論	International Relationship Theory
+3601	理論経済学	Theoritical Economics
+3602	経済学説?経済思想	Economic Doctrine/Economic Thought
+3603	経済統計学	Economic Statistics
+3604	応用経済学	Applied Economics
+3605	経済政策	Economic Policy
+3606	財政学?金融論	Fiscal Studies/Finance Theory
+3607	経済史	Economic History
+3701	経営学	Business Administration
+3702	商学	Commerce
+3703	会計学	Accounting
+3801	社会学	Sociology
+3802	社会福祉学	Social Welfare Studies
+3901	社会心理学	Social Psychology
+3902	教育心理学	Educational Psychology
+3903	臨床心理学	Clinical Psychology
+3904	実験心理学	Experimental Psychology
+4001	教育学	Pedagogy
+4002	教育社会学	Educational Sociology
+4003	教科教育学	Subject Pedagogy
+4004	特別支援教育	Special Support Education
+4101	代数学	Algebra
+4102	幾何学	Geometry
+4103	数学一般（含確率論?統計数学）	General Mathematics (includes Probability Theory/Statistical Mathematics)
+4104	基礎解析学	Basic Analysis
+4105	大域解析学	Global Analysis
+4201	天文学	Astronomy
+4301	素粒子?原子核?宇宙線?宇宙物理	Elementary Particle/Atomic Nucleus/Cosmic Ray/Space Physics
+4302	物性Ⅰ	Physical Properties I
+4303	物性Ⅱ	Physical Properties II
+4304	数理物理?物性基礎	Mathematical Physics/Fundamental Theory of Physical Properties
+4305	原子?分子?量子エレクトロニクス?プラズマ	Atomic/Molecular/Quantum Electronics, Plasma
+4306	生物物理?化学物理	Living Organism Physics/Chemical Physics
+4401	固体地球惑星物理学	Solid Earth Planet Physics
+4402	気象?海洋物理?陸水学	Weather/Oceanic Physics/Hydrology
+4403	超高層物理学	Upper Atmospheric Physics
+4404	地質学	Geology
+4405	層位?古生物学	Layers/Paleontology
+4406	岩石?鉱物?鉱床学	Science of Rocks/Minerals/Ore Deposits
+4407	地球宇宙化学	Earth Astrohemistry
+4501	プラズマ科学	Plasma Science
+4601	物理化学	Physical Chemistry
+4602	有機化学	Organic Chemistry
+4603	無機化学	Inorganic Chemistry
+4701	分析化学	Analytical Chemistry
+4702	合成化学	Synthetic Chemistry
+4703	高分子化学	Polymer Chemistry
+4704	機能物質化学	Functional Material Chemistry
+4705	環境関連化学	Environmental Chemistry
+4706	生体関連化学	Chemistry Related to Living Body
+4801	機能材料?デバイス	Functional Materials/Device
+4802	有機工業材料	Organic Industrial Material
+4803	無機工業材料	Inorganic Industrial Material
+4804	高分子?繊維材料	Polymer/Textile Materials
+4901	応用物性?結晶工学	Applied Physical Properties/Crystal Engineering
+4902	薄膜?表面界面物性	Thin Film and Surface Interface Physical Properties
+4903	応用光学?量子光工学	Applied Optics/Quantum Optical Engineering
+4904	応用物理学一般	General Applied Physics
+4905	工学基礎	Fundamental Engineering
+5001	機械材料?材料力学	Machine Material/Material Mechanics
+5002	生産工学?加工学	Production Engineering/Processing Studies
+5003	設計工学?機械機能要素?トライポロジー	Design Engineering, Machine Functional Elements/Tribology
+5004	流体工学	Fluidics
+5005	熱工学	Thermal Engineering
+5006	機械力学?制御	Machine Mechanics/Control
+5007	知能機械学?機械システム	Intelligent Mechanics/Mechanical System
+5101	電力工学?電気機器工学	Electric Power Engineering/Electric Equipment Engineering
+5102	電子?電気材料工学	Electron/Electric Material Engineering
+5103	電子デバイス?電子機器	Electronic Device/Electronic Equipment
+5104	通信?ネットワーク工学	Communication/Network Engineering
+5105	システム工学	System Engineering
+5106	計測工学	Measurement Engineering
+5107	制御工学	Control Engineering
+5201	土木材料?施工?建設マネジメント	Civil Engineering Materials/Execution/Construction Management
+5202	構造工学?地震工学?維持管理工学	Structural Engineering, Earthquake Engineering, Maintenance Management Engineering
+5203	地盤工学	Soil Foundations Engineering
+5204	水工水理学	Water Control Science
+5205	交通工学?国土計画	Traffic Engineering, Land Planning
+5206	土木環境システム	Civil Engineering Environmental System
+5301	建築構造?材料	Building Construction/Material
+5302	建築環境?設備	Architectural Environment/Equipment
+5303	都市計画?建築計画	City Planning/Architectural Planning
+5304	建築史?意匠	Architectural History/Design
+5401	金属物性	Metallic Physical Properties
+5402	無機材料?物性	Inorganic Material/Physical Properties
+5403	複合材料?物性	Composite Materials/Physical Properties
+5404	構造?機能材料	Structural/Functional Materials
+5405	材料加工?処理	Material Processing/Treatment
+5406	金属生産工学	Metallic Production Engineering
+5501	化工物性?移動操作?単位操作	Chemical Engineering Materials Properties/Transfer Operation/Unit Operation
+5502	反応工学?プロセスシステム	Reaction Engineering/Process System
+5503	触媒?資源化学プロセス	Catalyst/Resource Chemical Process
+5504	生物機能?バイオプロセス	Bio-Function/Bioprocesses
+5601	航空宇宙工学	Aerospace Engineering
+5602	船舶海洋工学	Ship Marine Engineering
+5603	地球?資源システム工学	Earth Resources System Engineering
+5604	リサイクル工学	Recycling Engineering
+5605	核融合学	Nuclear Fusion Studies
+5606	原子力学	Atomic Power Studies
+5607	エネルギー学	Energy Studies
+5701	遺伝?ゲノム動態	Heredity/Genome Dynamics
+5702	生態?環境	Ecology/Environment
+5703	植物生理?分子	Plant Physiology/Molecule
+5704	形態?構造	Form/Structure
+5705	動物生理?行動	Animal Physiology/Behavior
+5706	生物多様性?分類	Living Organisms Diversity/Classification
+5801	構造生物化学	Structural Biochemistry
+5802	機能生物化学	Functional Biochemistry
+5803	生物物理学	Biophysics
+5804	分子生物学	Molecular Biology
+5805	細胞生物学	Cell Biology
+5806	発生生物学	Developmental Biology
+5807	進化生物学	Evolutionary Biology
+5901	人類学	Anthropology
+5902	生理人類学	Physiological Anthropology
+6001	育種学	Breeding Studies
+6002	作物学?雑草学	Agronomy/Weed Studies
+6003	園芸学?造園学	Gardening/Garden Landscaping
+6004	植物病理学	Plant Pathology
+6005	応用昆虫学	Applied Entomology
+6101	植物栄養学?土壌学	Plant Nutrient Science/Soil Studies
+6102	応用微生物学	Applied Microbiology
+6103	応用生物化学	Applied Biochemistry
+6104	生物生産化学?生物有機化学	Biological Production Chemistry/Biological Organic Chemistry
+6105	食品科学	Food Science
+6201	林学?森林工学	Forestry/Forest Engineering
+6202	林産科学?木質工学	Timber Production Science/Wood Engineering
+6301	水産学一般	General Fishery Studies
+6302	水産化学	Fishery Chemistry
+6401	農業経済学	Agronomy
+6501	農業土木学?農村計画学	Agricultural Civil Engineering/Farm Village Planning Studies
+6502	農業環境工学	Agricultural Environmental Engineering
+6503	農業情報工学	Agricultural Information Engineering
+6601	畜産学?草地学	Livestock Science/Meadow Studies
+6602	応用動物科学	Applied Animal Science
+6603	基礎獣医学?基礎畜産学	Basic Veterinary Science/Basic Animal Science
+6604	応用獣医学	Applied Veterinary Science
+6605	臨床獣医学	Clinical Veterinary Science
+6701	環境農学	Environmental Agriculture
+6702	応用分子細胞生物学	Applied Molecular Cell Biology
+6801	化学系薬学	Chemical Pharmaceutical Science
+6802	物理系薬学	Physical Pharmaceutical Science
+6803	生物系薬学	Biological System Pharmaceutical Science
+6804	創薬化学	Drug Development Chemistry
+6805	環境系薬学	Environmental Pharmaceutical Science
+6806	医療系薬学	Clinical Pharmaceutical Science
+6901	解剖学一般（含組織学?発生学）	General Anatomy(includes Histology/Embryology)
+6902	生理学一般	General Physiology
+6903	環境生理学（含体力医学?栄養生理学）	Environmental Physiology(includes Sports Medicine/Nutritional Physiology)
+6904	薬理学一般	General Pharmacology
+6905	医化学一般	General Medical Chemistry
+6906	病態医化学	Pathological Medical Chemistry
+6907	人類遺伝学	Human Genetics
+6908	人体病理学	Human Pathology
+6909	実験病理学	Experimental Pathology
+6910	寄生虫学（含衛生動物学）	Parasitology (includes Sanitary Zoology)
+6911	細菌学（含真菌学）	Bacteriology(includes Mycology)
+6912	ウイルス学	Virology
+6913	免疫学	Immunology
+7001	医療社会学	Medical Sociology
+7002	応用薬理学	Applied Pharmacology
+7003	病態検査学	Pathological Examination Studies
+7101	衛生学	Hygienics
+7102	公衆衛生学?健康科学	Public Hygiene Studies/Health Science
+7103	法医学	Forensic Medicine
+7201	内科学一般（含心身医学）	General Internal Medicine (includes Psychosomatic Medicine)
+7202	消化器内科学	Digestive Organs Internal Medicine
+7203	循環器内科学	Circulatory Organs Internal Medicine
+7204	呼吸器内科学	Respiratory Organ Internal Medicine
+7205	腎臓内科学	Kidney Internal Medicine
+7206	神経内科学	Neurology
+7207	代謝学	Metabolism Studies
+7208	内分泌学	Endocrinology
+7209	血液内科学	Hematology
+7210	膠原病?アレルギー?感染症内科学	Collagen Disease/Allergy/Infectious Disease Medicine
+7211	小児科学	Pediatrics
+7212	胎児?新生児医学	Embryonic/Neonatal Medicine
+7213	皮膚科学	Dermatology
+7214	精神神経科学	Psychoneurosis Studies
+7215	放射線科学	Radiation Science
+7301	外科学一般	General Surgery
+7302	消化器外科学	Digestive Organ Surgery
+7303	胸部外科学	Thoracic Surgery
+7304	脳神経外科学	Cerebral Neurosurgery
+7305	整形外科学	Orthopaedic Surgery
+7306	麻酔?蘇生学	Anesthesiology/Resuscitation Studies
+7307	泌尿器科学	Urology
+7308	産婦人科学	Obstetrics and Gynecology
+7309	耳鼻咽喉科学	Otorhinolaryngology
+7310	眼科学	Ophthalmology
+7311	小児外科学	Infant Surgery
+7312	形成外科学	Plastic Surgery Studies
+7313	救急医学	Emergency Medicine
+7401	形態系基礎歯科学	Morphological Basic Odontology
+7402	機能系基礎歯科学	Functional Basic Odontology
+7403	病態科学系歯学?歯科放射線学	Pathological Odontology, Odontological Radiology
+7404	保存治療系歯学	Preservative Odontological Therapy
+7405	補綴理工系歯学	Prosthetic Odontology
+7406	外科系歯学	Surgical Odontology
+7407	矯正?小児系歯学	Orthodontic/Infant Odontology
+7408	歯周治療系歯学	Periodontal Odontology
+7409	社会系歯学	Social Odontology
+7501	基礎看護学	Basic Nursing Science
+7502	臨床看護学	Clinical Nursing Science
+7503	地域?老年看護学	Community/Elderly Nursing Science
+9999	その他	The Others
